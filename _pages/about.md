@@ -24,7 +24,7 @@ My current research interest locates at self-improvement and synthetic data meth
 <span class='anchor' id='Education'></span>
 
 # 📖 Education
-- *2021.09 - Now*, PhD in Artificial Intelligence, Division of Emerging Interdisciplinary Areas, Hong Kong University of Science and Technology.
+- *2024.09 - Now*, PhD in Artificial Intelligence, Division of Emerging Interdisciplinary Areas, Hong Kong University of Science and Technology.
 - *2021.09 - 2024.01*, MPhil in Software Engineering, School of Computer Science and Engineering, Beihang University. 
 - *2017.09 - 2021.06*, BSc in Computer Science, School of Computer Science and Engineering, Beihang University.
 
