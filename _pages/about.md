@@ -21,13 +21,19 @@ Hi! I'm Chunyang Jiang, currently a second-year Ph.D. student at [Hong Kong Univ
 
 My current research interest locates at self-improvement and synthetic data methodologies for Large Language Models. I have authored several first-author research papers in such areas. I am also interested in opportunities to apply such methodologies to other disciplines, such as science and social science. I am always open to discussions and collaborations. Please feel free to contact me via email rubickjiang\[dot\]gmail\[dot\]com.
 
-# 📖 Educations
+<span class='anchor' id='Education'></span>
+
+# 📖 Education
 - *2021.09 - Now*, PhD in Artificial Intelligence, Division of Emerging Interdisciplinary Areas, Hong Kong University of Science and Technology.
 - *2021.09 - 2024.01*, MPhil in Software Engineering, School of Computer Science and Engineering, Beihang University. 
 - *2017.09 - 2021.06*, BSc in Computer Science, School of Computer Science and Engineering, Beihang University.
 
+<span class='anchor' id='Internships'></span>
+
 # 💻 Internships
 - *2023.05 - 2023.08*, Applied Research Intern, Department of Tecent News, Tencent, Beijing.
+
+<span class='anchor' id='Selected Publications'></span>
 
 # 📝 Selected Publications 
 
@@ -41,12 +47,18 @@ models self-improve](https://github.com/rubickkcibur/IWSI), **Chunyang Jiang**, 
 
 - [Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning](https://github.com/rubickkcibur/PSAgent), **Chunyang Jiang**, Tianchen Zhu, Haoyi Zhou, Chang Liu, Ting Deng, Chunming Hu, and Jianxin Li. **ECAL 2023**
 
+<span class='anchor' id='Competition'></span>
+
 # 🎖 Competition
 - *2020.08* The second prize (5/72) in the National Undergraduate Computer System Capability Competition (Compiler Track). 
+
+<span class='anchor' id='Services'></span>
 
 # 💬 Services
 - *Journal Reviwer*, ACM TIST, IEEE/ACM TASLP, IEEE TIFS, Springer ML, ACM TKDD. 
 - *Conference Reviewer*, AAAI 2025, CVPR 2026, ICML 2026. 
+
+<span class='anchor' id='Teaching'></span>
 
 # 💬 Teaching
 - *Data Structures and Algorithms*, Teaching Assistant, Beihang University.
