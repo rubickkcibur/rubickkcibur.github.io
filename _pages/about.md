@@ -19,40 +19,40 @@ redirect_from:
 
 Hi! I'm Chunyang Jiang, currently a second-year Ph.D. student at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), under the supervision of [Prof. Wei Xue](http://wei-xue.com/) and [Prof. Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo). Before that, I got my Bachelor's and Master's degrees at [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics), supervised by [Prof. Chunming Hu](https://soft.buaa.edu.cn/teachershouw.jsp?urltype=news.NewsContentUrl&wbtreeid=1337&wbnewsid=9937).
 
-My current research interests locates at self-improvement and synthetic data methodologies for Large Language Models. I have authored several first-author research papers in such areas. I am also interested in opportunities to apply such methodologies to other disciplines, such as science and social science. I am always open to discussions and collaborations. Please feel free to contact me via email rubickjiang\[dot\]gmail\[dot\]com.
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My current research interest locates at self-improvement and synthetic data methodologies for Large Language Models. I have authored several first-author research papers in such areas. I am also interested in opportunities to apply such methodologies to other disciplines, such as science and social science. I am always open to discussions and collaborations. Please feel free to contact me via email rubickjiang\[dot\]gmail\[dot\]com.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09 - Now*, PhD in Artificial Intelligence, Division of Emerging Interdisciplinary Areas, Hong Kong University of Science and Technology.
+- *2021.09 - 2024.01*, MPhil in Software Engineering, School of Computer Science and Engineering, Beihang University. 
+- *2017.09 - 2021.06*, BSc in Computer Science, School of Computer Science and Engineering, Beihang University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2023.08*, Applied Research Intern, Department of Tecent News, Tencent, Beijing.
+
+# 📝 Selected Publications 
+
+- [Semantic Voting: A Self-Evaluation-Free Approach for Efficient LLM Self-Improvement on Unverifiable Open-ended Tasks](https://github.com/rubickkcibur/Semantic-Voting), **Chunyang Jiang**, Yonggang Zhang, Yiyang Cai, Chi-Min Chan, Yulong Liu, Mingming Chen, Wei Xue, Yike Guo. **ICLR 2026**
+
+- [Graceful Forgetting in Generative
+Language Models](https://github.com/rubickkcibur/LWF), **Chunyang Jiang**, Chi-min Chan, Yiyang Cai, Yulong Liu, Wei Xue, Yike Guo. **EMNLP 2025**
+
+- [Importance weighting can help large language
+models self-improve](https://github.com/rubickkcibur/IWSI), **Chunyang Jiang**, Chi-Min Chan, Wei Xue, Qifeng Liu, and Yike Guo. **AAAI 2025**
+
+- [Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning](https://github.com/rubickkcibur/PSAgent), **Chunyang Jiang**, Tianchen Zhu, Haoyi Zhou, Chang Liu, Ting Deng, Chunming Hu, and Jianxin Li. **ECAL 2023**
+
+# 🎖 Competition
+- *2020.08* The second prize (5/72) in the National Undergraduate Computer System Capability Competition (Compiler Track). 
+
+# 💬 Services
+- *Journal Reviwer*, ACM TIST, IEEE/ACM TASLP, IEEE TIFS, Springer ML, ACM TKDD. 
+- *Conference Reviewer*, AAAI 2025, CVPR 2026, ICML 2026. 
+
+# 💬 Teaching
+- *Data Structures and Algorithms*, Teaching Assistant, Beihang University.
+- *Operating Systems*, Teaching Assistant, Beihang University.
+- *Discrete Mathematics*, Teaching Assistant, Beihang University.
+- *Compilers*, Teaching Assistant, Beihang University.
+- *Cross-Displinary Design Thinking*, Teaching Assistant, HKUST.
+
+
