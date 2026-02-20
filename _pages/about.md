@@ -45,7 +45,7 @@ Language Models](https://github.com/rubickkcibur/LWF), **Chunyang Jiang**, Chi-m
 - [Importance weighting can help large language
 models self-improve](https://github.com/rubickkcibur/IWSI), **Chunyang Jiang**, Chi-Min Chan, Wei Xue, Qifeng Liu, and Yike Guo. **AAAI 2025**
 
-- [Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning](https://github.com/rubickkcibur/PSAgent), **Chunyang Jiang**, Tianchen Zhu, Haoyi Zhou, Chang Liu, Ting Deng, Chunming Hu, and Jianxin Li. **ECAL 2023**
+- [Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning](https://github.com/rubickkcibur/PSAgent), **Chunyang Jiang**, Tianchen Zhu, Haoyi Zhou, Chang Liu, Ting Deng, Chunming Hu, and Jianxin Li. **EACL 2023**
 
 <span class='anchor' id='Competition'></span>
 
