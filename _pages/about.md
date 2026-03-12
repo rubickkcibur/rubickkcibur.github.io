@@ -31,21 +31,30 @@ My current research interest locates at self-improvement and synthetic data meth
 <span class='anchor' id='Internships'></span>
 
 # 💻 Internships
+- *2025.11 - 2026.04*, Research Intern, Fermat Lab, Huawei, HongKong.
 - *2023.05 - 2023.08*, Applied Research Intern, Department of Tecent News, Tencent, Beijing.
 
 <span class='anchor' id='Selected Publications'></span>
 
 # 📝 Selected Publications 
 
-- [Semantic Voting: A Self-Evaluation-Free Approach for Efficient LLM Self-Improvement on Unverifiable Open-ended Tasks](https://github.com/rubickkcibur/Semantic-Voting), **Chunyang Jiang**, Yonggang Zhang, Yiyang Cai, Chi-Min Chan, Yulong Liu, Mingming Chen, Wei Xue, Yike Guo. **ICLR 2026**
+- [Semantic Voting: A Self-Evaluation-Free Approach for Efficient LLM Self-Improvement on Unverifiable Open-ended Tasks](https://github.com/rubickkcibur/Semantic-Voting). **Chunyang Jiang**, Yonggang Zhang, Yiyang Cai, Chi-Min Chan, Yulong Liu, Mingming Chen, Wei Xue, Yike Guo. **ICLR 2026**
 
 - [Graceful Forgetting in Generative
-Language Models](https://github.com/rubickkcibur/LWF), **Chunyang Jiang**, Chi-min Chan, Yiyang Cai, Yulong Liu, Wei Xue, Yike Guo. **EMNLP 2025**
+Language Models](https://github.com/rubickkcibur/LWF). **Chunyang Jiang**, Chi-min Chan, Yiyang Cai, Yulong Liu, Wei Xue, Yike Guo. **EMNLP 2025**
 
 - [Importance weighting can help large language
-models self-improve](https://github.com/rubickkcibur/IWSI), **Chunyang Jiang**, Chi-Min Chan, Wei Xue, Qifeng Liu, and Yike Guo. **AAAI 2025**
+models self-improve](https://github.com/rubickkcibur/IWSI). **Chunyang Jiang**, Chi-Min Chan, Wei Xue, Qifeng Liu, and Yike Guo. **AAAI 2025**
 
-- [Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning](https://github.com/rubickkcibur/PSAgent), **Chunyang Jiang**, Tianchen Zhu, Haoyi Zhou, Chang Liu, Ting Deng, Chunming Hu, and Jianxin Li. **EACL 2023**
+- [Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning](https://github.com/rubickkcibur/PSAgent). **Chunyang Jiang**, Tianchen Zhu, Haoyi Zhou, Chang Liu, Ting Deng, Chunming Hu, and Jianxin Li. **EACL 2023**
+
+- Modeling the Brain’s Grammar: ROI-Guided fMRI Pretraining for Transferable and Interpretable Vision Decoding, Yulong Liu, Hua Xu, Yiyang Cai, **Chunyang Jiang**, Sirui Han, Yike Guo. **CVPR 2026**
+
+- Foundation Cures Personalization: Improving Personalized Models' Prompt Consistency via Hidden Foundation Knowledge. Yiyang Cai, Zhengkai Jiang, Yulong Liu, **Chunyang Jiang**, Wei Xue, Wenhan Luo, Yike Guo. **NeurIPS 2025**
+
+- Boosting Policy and Process Reward Models with Monte Carlo Tree Search in Open-Domain QA. Chi-Min Chan, Chunpu Xu, Junqi Zhu, Jiaming Ji, Donghai Hong, Pengcheng Wen, **Chunyang Jiang**, Zhen Ye, Yaodong Yang, Wei Xue, Sirui Han, Yike Guo. **Findings of ACL 2025**.
+
+- AIQoSer: Building the efficient Inference-QoS for AI Services. Jianxin Li, Tianchen Zhu, Haoyi Zhou, Qingyun Sun, **Chunyang Jiang**, Shuai Zhang, Chunming Hu. **IWQoS 2022** (Best Paper Award)
 
 <span class='anchor' id='Competition'></span>
 
