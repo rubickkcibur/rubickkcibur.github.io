@@ -21,20 +21,20 @@ Hi! I'm Chunyang Jiang, currently a second-year Ph.D. student at [Hong Kong Univ
 
 My current research interest locates at self-improvement and synthetic data methodologies for Large Language Models. I have authored several first-author research papers in such areas. I am also interested in opportunities to apply such methodologies to other disciplines, such as science and social science. I am always open to discussions and collaborations. Please feel free to contact me via email rubickjiang\[dot\]gmail\[dot\]com.
 
-<span class='anchor' id='Education'></span>
+<span class='anchor' id='education'></span>
 
 # 📖 Education
 - *2024.09 - Now*, PhD in Artificial Intelligence, Division of Emerging Interdisciplinary Areas, Hong Kong University of Science and Technology.
 - *2021.09 - 2024.01*, MPhil in Software Engineering, School of Computer Science and Engineering, Beihang University. 
 - *2017.09 - 2021.06*, BSc in Computer Science, School of Computer Science and Engineering, Beihang University.
 
-<span class='anchor' id='Internships'></span>
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 - *2025.11 - 2026.04*, Research Intern, Fermat Lab, Huawei, HongKong.
 - *2023.05 - 2023.08*, Applied Research Intern, Department of Tecent News, Tencent, Beijing.
 
-<span class='anchor' id='Selected Publications'></span>
+<span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications 
 
@@ -56,18 +56,18 @@ models self-improve](https://github.com/rubickkcibur/IWSI). **Chunyang Jiang**, 
 
 - AIQoSer: Building the efficient Inference-QoS for AI Services. Jianxin Li, Tianchen Zhu, Haoyi Zhou, Qingyun Sun, **Chunyang Jiang**, Shuai Zhang, Chunming Hu. **IWQoS 2022** (Best Paper Award)
 
-<span class='anchor' id='Competition'></span>
+<span class='anchor' id='competition'></span>
 
 # 🎖 Competition
 - *2020.08* The second prize (5/72) in the National Undergraduate Computer System Capability Competition (Compiler Track). 
 
-<span class='anchor' id='Services'></span>
+<span class='anchor' id='services'></span>
 
 # 💬 Services
 - *Journal Reviwer*, ACM TIST, IEEE/ACM TASLP, IEEE TIFS, Springer ML, ACM TKDD. 
 - *Conference Reviewer*, AAAI 2025, CVPR 2026, ICML 2026. 
 
-<span class='anchor' id='Teaching'></span>
+<span class='anchor' id='teaching'></span>
 
 # 💬 Teaching
 - *Data Structures and Algorithms*, Teaching Assistant, Beihang University.
@@ -75,5 +75,4 @@ models self-improve](https://github.com/rubickkcibur/IWSI). **Chunyang Jiang**, 
 - *Discrete Mathematics*, Teaching Assistant, Beihang University.
 - *Compilers*, Teaching Assistant, Beihang University.
 - *Cross-Displinary Design Thinking*, Teaching Assistant, HKUST.
-
 

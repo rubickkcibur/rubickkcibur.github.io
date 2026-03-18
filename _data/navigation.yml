@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#-Education"
+    url: "/#education"
 
   - title: "Internships"
-    url: "/#-Internships"
+    url: "/#internships"
 
   - title: "Publication"
-    url: "/#-Selected Publications"
+    url: "/#selected-publications"
 
   - title: "Competition"
-    url: "/#-Competition"
+    url: "/#competition"
 
   - title: "Services"
-    url: "/#-Services"
+    url: "/#services"
 
   - title: "Teaching"
-    url: "/#-Teaching"
+    url: "/#teaching"
