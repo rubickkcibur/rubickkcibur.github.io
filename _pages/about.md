@@ -48,7 +48,9 @@ models self-improve](https://github.com/rubickkcibur/IWSI). **Chunyang Jiang**, 
 
 - [Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning](https://github.com/rubickkcibur/PSAgent). **Chunyang Jiang**, Tianchen Zhu, Haoyi Zhou, Chang Liu, Ting Deng, Chunming Hu, and Jianxin Li. **EACL 2023**
 
-- Modeling the Brain’s Grammar: ROI-Guided fMRI Pretraining for Transferable and Interpretable Vision Decoding, Yulong Liu, Hua Xu, Yiyang Cai, **Chunyang Jiang**, Sirui Han, Yike Guo. **CVPR 2026**
+- Benchmarking Fine-Grained Error Detection in Multimodal Reasoning. Chi-Min Chan, Han Zhu, **Chunyang Jiang**, Jiaming Ji, Juntao Dai, Wei Xue, Sirui Han, Yike Guo. **ACL 2026**
+
+- Modeling the Brain’s Grammar: ROI-Guided fMRI Pretraining for Transferable and Interpretable Vision Decoding. Yulong Liu, Hua Xu, Yiyang Cai, **Chunyang Jiang**, Sirui Han, Yike Guo. **CVPR 2026**
 
 - Foundation Cures Personalization: Improving Personalized Models' Prompt Consistency via Hidden Foundation Knowledge. Yiyang Cai, Zhengkai Jiang, Yulong Liu, **Chunyang Jiang**, Wei Xue, Wenhan Luo, Yike Guo. **NeurIPS 2025**
 
