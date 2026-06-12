@@ -31,7 +31,7 @@ My current research interest locates at self-improvement and synthetic data meth
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *2025.11 - 2026.04*, Research Intern, Fermat Lab, Huawei, HongKong.
+- *2025.11 - 2026.04*, Research Intern, 2012 Lab, Huawei, HongKong.
 - *2023.05 - 2023.08*, Applied Research Intern, Department of Tecent News, Tencent, Beijing.
 
 <span class='anchor' id='selected-publications'></span>
