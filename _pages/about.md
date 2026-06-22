@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Chunyang Jiang, currently a second-year Ph.D. student at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), under the supervision of [Prof. Wei Xue](http://wei-xue.com/) and [Prof. Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo). Before that, I got my Bachelor's and Master's degrees at [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics), supervised by [Prof. Chunming Hu](https://soft.buaa.edu.cn/teachershouw.jsp?urltype=news.NewsContentUrl&wbtreeid=1337&wbnewsid=9937).
+Hi! I'm Chunyang Jiang, currently a third-year Ph.D. candidate at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), under the supervision of [Prof. Wei Xue](http://wei-xue.com/) and [Prof. Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo). Before that, I got my Bachelor's and Master's degrees at [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics), supervised by [Prof. Chunming Hu](https://soft.buaa.edu.cn/teachershouw.jsp?urltype=news.NewsContentUrl&wbtreeid=1337&wbnewsid=9937).
 
 My current research interest locates at self-improvement and synthetic data methodologies for Large Language Models. I have authored several first-author research papers in such areas. I am also interested in opportunities to apply such methodologies to other disciplines, such as science and social science. I am always open to discussions and collaborations. Please feel free to contact me via email rubickjiang\[dot\]gmail\[dot\]com.
 
