@@ -32,7 +32,7 @@ My current research interest locates at self-improvement and synthetic data meth
 
 # 💻 Internships
 - *2025.11 - 2026.04*, Research Intern, 2012 Lab, Huawei, HongKong.
-- *2023.05 - 2023.08*, Applied Research Intern, Department of Tecent News, Tencent, Beijing.
+- *2023.05 - 2023.08*, Research Intern, Tencent News, Tencent, Beijing.
 
 <span class='anchor' id='selected-publications'></span>
 
@@ -67,7 +67,7 @@ models self-improve](https://github.com/rubickkcibur/IWSI). **Chunyang Jiang**, 
 
 # 💬 Services
 - *Journal Reviwer*, ACM TIST, IEEE/ACM TASLP, IEEE TIFS, Springer ML, ACM TKDD. 
-- *Conference Reviewer*, AAAI 2025, CVPR 2026, ICML 2026. 
+- *Conference Reviewer*, AAAI, CVPR, ICML. 
 
 <span class='anchor' id='teaching'></span>
 
