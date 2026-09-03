@@ -31,7 +31,7 @@ My current research interest locates at self-improvement and synthetic data meth
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *2026.05 - 2026.08*, Research Intern, LongCat, Meituan, Shanghai.
+- *2026.05 - 2026.09*, Research Intern, LongCat, Meituan, Shanghai.
 - *2025.11 - 2026.04*, Research Intern, 2012 Lab, Huawei, Hong Kong.
 - *2023.05 - 2023.08*, Research Intern, Tencent News, Tencent, Beijing.
 
